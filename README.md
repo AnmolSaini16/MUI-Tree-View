@@ -1,8 +1,12 @@
+## MUI Tree View with Search and Add functionality 
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/72123368/217273886-520325b9-2b4c-40a5-878f-f789c338e863.png">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
+
 
 ```bash
 npm run dev
